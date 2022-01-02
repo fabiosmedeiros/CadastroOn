@@ -1,0 +1,6 @@
+C:\Users\Fabio\source\repos\CadastroOn\CadastroOn.Infra.Data\bin\Debug\CadastroOn.Infra.Data.dll
+C:\Users\Fabio\source\repos\CadastroOn\CadastroOn.Infra.Data\bin\Debug\CadastroOn.Infra.Data.pdb
+C:\Users\Fabio\source\repos\CadastroOn\CadastroOn.Infra.Data\obj\Debug\CadastroOn.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\CadastroOn\CadastroOn.Infra.Data\obj\Debug\CadastroOn.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\CadastroOn\CadastroOn.Infra.Data\obj\Debug\CadastroOn.Infra.Data.dll
+C:\Users\Fabio\source\repos\CadastroOn\CadastroOn.Infra.Data\obj\Debug\CadastroOn.Infra.Data.pdb
